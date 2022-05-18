@@ -1,2 +1,11 @@
-#File Ignore in the github.com
+# misc
 *.pem
+# Local .terraform directories
+**/.terraform/*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+# Crash log files
+crash.log
+# Ansible
+*.retry
